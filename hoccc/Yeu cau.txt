@@ -1,0 +1,41 @@
+1) Chọn 1 theme bán hàng cơ bản
+2) Sử dụng source của theme để add vào source của MVC
+
+3)Load dữ liệu từ DB
+
+
+
+
+http request
+
+Get : truy xuất tài nguyên có sữ
+post : cập nhập tài nguyên mới 
+put : cập nhập toàn bộ
+patch : 
+delete
+
+asp-validation-for : khi nhập ko hợp lệ
+
+
+public int Id{get;set;)
+[Required] bắt buộc phải nhập kí tự
+
+filed-valition-error : cảnh báo màu đỏ
+
+public int Id{get;set;)
+[Required(ErrorMessage = "thông báo mới")]
+ bắt buộc phải nhập kí tự
+
+
+public int Id{get;set;)
+[Required(ErrorMessage = "thông báo mới")]
+ bắt buộc phải nhập kí tự
+[Display(Name = "tên muốn hiển thị ra ngoài")]
+
+public int Id{get;set;)
+[Required(ErrorMessage = "thông báo mới")]
+ bắt buộc phải nhập kí tự
+[Display(Name = "tên muốn hiển thị ra ngoài")]
+[StringLength(maximunLength:50, mininumLength : 10)] : dài lớn nhất 50 và ít nhất 10 kí tự1
+
+

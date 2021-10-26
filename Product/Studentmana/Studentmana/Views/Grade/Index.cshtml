@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Studentmana.Entities.Grade>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New Grade</a>
+</p>
+<table class="table">
+    <thead>
+    <th>
+        @Html.DisplayNameFor(model => model.GradeId)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.GradeName)
+    </th>
+    <th></th>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GradeId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GradeName)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    <a class="btn btn-danger " style="background-color: red; color: white; margin-left: 10%" asp-controller="Grade" asp-action="Remove" asp-route-gradeId="@item.GradeId" onclick="return confirm('Are you sure you want deleted')">
+                        <i class="fas fa-trash">
+                        </i>
+
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

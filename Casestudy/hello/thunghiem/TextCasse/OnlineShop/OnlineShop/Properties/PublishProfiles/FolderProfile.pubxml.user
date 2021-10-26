@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Asus\OneDrive\Desktop\publish</_PublishTargetUrl>
+    <History>True|2021-08-17T02:10:50.3269225Z;True|2021-08-17T09:00:19.0136758+07:00;True|2021-08-17T08:55:28.9108764+07:00;True|2021-08-17T08:50:07.1004568+07:00;True|2021-08-17T08:14:13.7559617+07:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>workstation id=OnlineShopRabit123.mssql.somee.com%3bpacket size=4096%3buser id=Hoothanh611998_SQLLogin_1%3bpwd=kni2yuhedp%3bdata source=OnlineShopRabit123.mssql.somee.com%3bpersist security info=False%3binitial catalog=OnlineShopRabit123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

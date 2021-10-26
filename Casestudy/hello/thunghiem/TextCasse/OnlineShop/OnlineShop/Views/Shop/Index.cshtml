@@ -1,0 +1,51 @@
+﻿
+@model List<OnlineShop.Entities.Category>
+@using System.Globalization
+@{
+    ViewBag.Title = "Shop";
+
+    string FormatCurrency(double number)
+    {
+        CultureInfo cul = CultureInfo.GetCultureInfo("vi-VN");
+        return number.ToString("#,###", cul.NumberFormat);
+    }
+}
+<section class="shopping-cart spad">
+    <div class="container">
+        @foreach (Category cat in Model)
+        {
+            <div class="panel panel-success">
+                <div class="panel-heading"><h2>@cat.Name</h2></div>
+                <div class="panel-body">
+                    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4">
+                        @foreach (Product product in cat.Products)
+                        {
+                            <div class="col mb-5">
+                                <div class="card h-100 ">
+                                    <!-- Product image-->
+                                    <img class="card-img-top" style="height:200px" src="..@product.Image" alt="@product.Product_Name" />
+                                    <!-- Product details-->
+                                    <div class="card-body p-4">
+                                        <div class="text-center">
+                                            <!-- Product name-->
+                                            <h5 class="fw-bolder">@product.Product_Name</h5>
+                                            <!-- Product price-->
+                                            Price @product.Promotion_Price đ <br> Sale @FormatCurrency((double)product.Price)đ
+                                        </div>
+                                    </div>
+                                    <!-- Product actions-->
+                                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                        <div class="text-center"><a class="btn btn-outline-dark mt-auto" asp-controller="Shop" asp-action="AddToCart" asp-route-productId="@product.ID">Add to cart</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+</section>
+
+
+

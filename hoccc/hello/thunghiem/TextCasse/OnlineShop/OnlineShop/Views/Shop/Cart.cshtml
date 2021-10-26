@@ -1,0 +1,132 @@
+﻿@model List<CartItem>
+@{
+    ViewBag.Title = "Cart detail";
+}
+
+
+@if (Model.Count > 0)
+{
+    decimal totalAmount = 0;
+    decimal totalpromo = 0;
+    //int orderNumber = 1;
+    decimal Saleprice = 0;
+
+    <section class="shopping-cart spad">
+        <div class="container">
+            <h2>Cart Detail</h2>
+            <div class="row">
+                <div class="table-responsive-">
+                    <div class="cart-table">
+                        <table style="width:1000px">
+                            <thead>
+                                <tr>
+                                    <th>Photo</th>
+                                    <th>Product name</th>
+                                    <th>Price</th>
+                                    <th>Promotion Price</th>
+                                    <th>Amount</th>
+                                    <th>Total</th>
+
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var cartitem in Model)
+                                {
+                                    var amount = cartitem.Quantity * cartitem.Product.Promotion_Price;
+                                    totalAmount += amount;
+                                    var amoutPromotion = cartitem.Quantity * cartitem.Product.Priceproduct;
+                                    totalpromo += amoutPromotion;
+                                    Saleprice = totalAmount - totalpromo;
+                                    <tr>
+                                        <td class="cart-pic first-row"><img src="..@Url.Content(@cartitem.Product.Photo)" alt="@cartitem.Product.ProdcutName" /></td>
+                                        <td class="p-price first-row">
+                                            @cartitem.Product.ProdcutName
+                                        </td>
+                                        <td class="p-price first-row">@(cartitem.Product.Promotion_Price)</td>
+                                        <td class="p-price first-row">@(cartitem.Product.Priceproduct)</td>
+                                        <td class="qua-col first-row">
+                                            <div class="quantity">
+                                                <div class="pro-qty">
+                                                    <input asp-for="@cartitem.Quantity" id="@($"quantity-{cartitem.Product.ProductId}")" type="text">
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="total-price first-row">@(amount.ToString("n0"))</td>
+
+
+                                        <td class=" close-td first-row updatecartitem " data-productId="@cartitem.Product.ProductId">
+                                            <h2 class="btn btn-info">+</h2>
+                                        </td>
+
+                                        <td class="close-td first-row">
+                                            <i></i><a asp-controller="Shop" asp-action="RemoveCart" asp-route-ProductId="@cartitem.Product.ProductId"
+                                                      class="btn btn-danger">X</a>
+                                        </td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="cart-buttons">
+                                <a asp-controller="Shop" asp-action="Index" class="primary-btn continue-shop">Continue shopping</a>
+
+                            </div>
+                            <div class="discount-coupon">
+                                <h6>Discount Codes</h6>
+                                <form action="#" class="coupon-form">
+                                    <input type="text" placeholder="Enter your codes">
+                                    <button type="submit" class="site-btn coupon-btn">Apply</button>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 offset-lg-4">
+                            <div class="proceed-checkout">
+                                <ul>
+                                    <li class="subtotal">Promotion total <span>@(totalpromo.ToString("n0"))</span></li>
+                                    <li class="cart-total">Total <span>@(Saleprice.ToString("n0"))</span></li>
+                                </ul>
+                                <a href="#" class="proceed-btn">PROCEED TO CHECK OUT</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    @section jsAdmin {
+        <script>
+          $(document).ready(function () {
+              $(".updatecartitem").click(function (event) {
+                  event.preventDefault();
+                  var productId = $(this).attr("data-productId");
+                  var quantity = $("#quantity-" + productId).val();
+                  $.ajax({
+                      type: "POST",
+                      url:"@Url.RouteUrl("updatecart")",
+                      data: {
+                          productId: productId,
+                          quantity:quantity
+                      },
+                      success: function (result) {
+                          window.location.href = "@Url.RouteUrl(@"\Shop\Cart")";
+                      }
+                  });
+              });
+          });
+        </script>
+    }
+
+}
+else
+{
+    <p class="alert alert-danger">Cart is empty</p>
+    <div class="cart-buttons">
+        <a asp-controller="Shop" asp-action="Index" class="primary-btn continue-shop">Continue shopping</a>
+
+    </div>
+}

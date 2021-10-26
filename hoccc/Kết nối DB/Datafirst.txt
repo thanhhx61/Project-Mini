@@ -1,0 +1,27 @@
+Bước 1: 
+microsoft.entityframeworkcore.sqlserver
+microsoft.entityframeworkcore.sqlserver.design
+microsoft.entityframeworkcore.Tools
+bước2: tool => console
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+Update-Package Microsoft.EntityFrameworkCore.Tools
+
+Get-Help about_EntityFrameworkCore
+
+Update-Database -Args '--environment Production'
+
+bước 3:
+tạo liên kết với DB
+
+Scaffold-DbContext "Server=THANH_HO;
+Database=KINHDOANH;
+UID=sa; PWD=123"
+Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+Scaffold-DbContext "Server=THANH_HO; Database=KINHDOANH; UID=sa; PWD=123" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+Data Source=THANH_HO;Persist Security Info=True;User ID=sa;Password=123
+
+
+

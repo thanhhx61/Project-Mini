@@ -1,0 +1,621 @@
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+D:\Code Thue\OnlineShop\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Casestudy\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\Casestudy\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ShopLayout.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Cart.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\_ViewStart.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+E:\Casestudy\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ShopLayout.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Cart.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\_ViewStart.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\Casestudy\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ShopLayout.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Cart.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\_ViewStart.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\Casestudy\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ShopLayout.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Cart.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\_ViewStart.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Users\Asus\OneDrive\Desktop\New folder (2)\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorAssemblyInfo.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.Manifest.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShop.StaticWebAssets.xml
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineShop.styles.css
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.input.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.TagHelpers.output.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorCoreGenerate.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ShopLayout.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Cart.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\_ViewStart.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cache
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.RazorTargetAssemblyInfo.cs
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.Views.pdb
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CopyComplete
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+E:\hoccc\hello\thunghiem\TextCasse\OnlineShop\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
